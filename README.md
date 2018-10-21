@@ -1,1 +1,1 @@
-# gmc its all about testing how Github pages work first
+# Testing a host of GMC - GrepMaxxCodec with Github

@@ -1,0 +1,63 @@
+.carousel-fade .carousel-inner .itemten {
+  transition-property: opacity;
+}
+.carousel-fade .carousel-inner .itemten,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+
+
+/*body, */
+.carousel-inner .itemten {
+  height: inherit;
+  width: inherit;
+  object-fit: cover;
+  object-position: center center;
+  
+
+}
+
+.carousel-inner,
+.carouselclasser {
+height: 100%;
+width: 100%;
+}
+
+
+.itemten:nth-child(1) {
+}
+.itemten:nth-child(2) {
+	
+  
+}
+.itemten:nth-child(3) {
+  
+}
+
+
+.middle-main-bar {
+			width: 100%;
+			margin: 0px 0px 0px 0px;
+			display: block;
+			vertical-align: top;
+			height: 100%;
+			background: red transparent;
+			position: absolute;
+}

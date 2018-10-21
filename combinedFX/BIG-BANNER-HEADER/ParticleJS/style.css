@@ -1,0 +1,52 @@
+
+
+/* #DIVbg {
+  width: 100%;
+  height: 400px;
+  background: red;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: absolute;
+}
+
+*/
+
+#particles-js {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: 30;
+	
+  
+}
+
+
+
+#boxr {
+	width: 60%;
+	height: 8%;
+	z-index: 31;
+	border: 1px solid white transparent;
+	position: relative;
+	margin: auto;
+	text-align: center;
+	left: 0;
+	top: 74%;
+	background: blue transparent;
+	
+  
+}
+
+#button-stand-alone {
+	z-index: 1000;
+	position: absolute;
+	margin: auto;
+	left: 40%;
+	top: 50%;
+  
+}
+
+
+
