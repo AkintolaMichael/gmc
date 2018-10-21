@@ -1,0 +1,38 @@
+@media screen and (max-width: 768px) {
+	#gobranchless{
+		font-weight: 600;
+	}
+	#signup-div {
+    	width: auto;
+    	height: auto;
+    	margin-left: 20px;
+    	margin-right: 20px;
+	}
+	.refer {
+		padding: 0;
+	}
+
+	.heal_class{
+		width: auto !important;
+		height: 173px !important;
+		margin-left: 20px;
+		margin-right: 20px;
+		margin-top: -20px !important;
+	}
+
+	.heal_class h2{
+		top: 86px !important;
+		position: relative;
+		font-size: 20px;
+	}
+	.heal_class p{
+		top: 86px !important;
+		position: relative;
+		font-size: 15px;
+
+	}
+	#token {
+		margin-top: 20px !important;
+	}
+
+}
